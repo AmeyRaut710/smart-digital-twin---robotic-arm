@@ -1,0 +1,5 @@
+{
+  "name": "Smart Digital Twin - Robotic Arm",
+  "description": "An Industry 4.0 predictive maintenance platform for a 2-DOF robotic arm featuring real-time ROM simulation and AI-driven fault detection.",
+  "requestFramePermissions": []
+}
